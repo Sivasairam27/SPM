@@ -1,0 +1,3 @@
+I am using pull and branch in spm practical
+
+Git Diff command class in practical class on 9/1/2023
